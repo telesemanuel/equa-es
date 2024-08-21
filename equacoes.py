@@ -1,4 +1,5 @@
 import math
+import os
 
 def menu():
     print(" 1 - Calcular equação 1° grau.")
